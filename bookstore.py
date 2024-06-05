@@ -1,6 +1,8 @@
 # Import sqlite3 from Python LIbrary. 
 import sqlite3
 
+#nice code, looking sharp
+
 # Create database file. 
 def connectDB():
     return sqlite3.connect('ebookstore.db')
